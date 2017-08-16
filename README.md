@@ -1,2 +1,2 @@
 # pic
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/tvolkmann1/pic/blob/master/screenshots/PIC_2.png)
